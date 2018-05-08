@@ -1,0 +1,14 @@
+p_url=https://lab-rduraisamy1.memento-inc.com:4432
+p_filePath=E:\APIAutomation\Project\TestData.xlsx
+p_host=10.16.206.183
+p_port=1433
+p_dbname=FCM_Boolean
+p_dbusername=ramesh
+p_dbpassword=Yatheeshafeb26w
+p_drivername=com.microsoft.sqlserver.jdbc.SQLServerDriver
+p_system=LOCAL
+p_tenant=FCM
+p_labmachine=LAB-RDURAISAMY1.memento-inc.com
+v_achAlertType=1,2
+v_depositAlertType=3,4,5,6,7,8,9
+v_onusAlertType=10,11,12,13,14,15
